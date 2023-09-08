@@ -1,1 +1,3 @@
 # fat-sat-uat
+
+deprecated
